@@ -3,4 +3,4 @@
 
 ## DNN
 + ABIDE_fMRI_DNN.py contains the functions used for DNN simulation
-+ ABIDE_fMRI_DNN.ipynb contains the simulation results
++ ABIDE fMRI DNN.ipynb contains the simulation results
